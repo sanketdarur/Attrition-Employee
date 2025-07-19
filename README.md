@@ -56,9 +56,8 @@ Use this dashboard to inform retention strategies, employee engagement plans, an
 ### Power BI & DAX Technical Implementation
 - Designed a robust data model using Power BI, managing relationships across employee data, date tables, and derived dimensions.
 - Applied measures vs calculated columns effectively to balance performance with functional requirements in dashboard interactivity.
-- Utilized advanced DAX expressions including CALCULATE, FILTER, REMOVEFILTERS, ALLSELECTED, and DIVIDE for dynamic and contextual metrics.
+- Utilized advanced DAX expressions including CALCULATE, FILTER, REMOVEFILTERS, and DIVIDE for dynamic and contextual metrics.
 - Developed custom KPIs using AVERAGEX, SWITCH(TRUE()), and other row and filter context-aware functions.
-- Leveraged functions like ROUNDUP, MAX, and RANKX to produce formatted, business-aligned outputs across cards and visuals.
 
 ### Dashboard Design & Visual Structuring
 - Applied consistent and meaningful color themes aligned with background visuals to enhance readability and visual impact.
