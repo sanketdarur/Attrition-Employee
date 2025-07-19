@@ -75,5 +75,7 @@ Use this dashboard to inform retention strategies, employee engagement plans, an
 - Differentiated between segment attrition rates and segment contribution to total attrition, providing clearer storytelling in visuals.
 
 
+
+
 ![Dashboard Preview](Resources/Emp_Attrition.png)
 
