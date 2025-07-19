@@ -74,8 +74,6 @@ Use this dashboard to inform retention strategies, employee engagement plans, an
 - Developed dynamic attrition insights that respond to slicers, including breakdowns of performance and satisfaction scores.
 - Differentiated between segment attrition rates and segment contribution to total attrition, providing clearer storytelling in visuals.
 
-
-
-
+<br><br>
 ![Dashboard Preview](Resources/Emp_Attrition.png)
 
