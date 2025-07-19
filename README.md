@@ -61,7 +61,6 @@ Use this dashboard to inform retention strategies, employee engagement plans, an
 - Leveraged functions like ROUNDUP, MAX, and RANKX to produce formatted, business-aligned outputs across cards and visuals.
 
 ### Dashboard Design & Visual Structuring
-- Created a 3-page dashboard structure to separate high-level metrics, detailed departmental insights, and performance-focused evaluations.
 - Applied consistent and meaningful color themes aligned with background visuals to enhance readability and visual impact.
 - Integrated slicers for year, department, and gender, ensuring controlled and user-friendly filtering across visuals.
 - Used donut charts, bar charts, line graphs, KPI cards, and matrices to represent different angles of attrition and performance effectively.
