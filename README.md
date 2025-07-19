@@ -25,3 +25,28 @@ A running total line graph visualizing employee exit patterns over time, highlig
 Department Filter
 Slicers for department-level analysis (HR, R&D, Sales) to drill down into specific business units.
 
+# Insights
+Younger employees (<25) had the highest attrition rate, indicating a need for early-career engagement strategies.
+
+Sales roles showed the most turnover, suggesting possible stress points or job dissatisfaction in client-facing roles.
+
+Lower education levels correlate with higher attrition, possibly due to lower pay scales or growth opportunities.
+
+Attrition is consistent across genders, but male employees have a slightly higher exit rate in this dataset.
+
+# Tech Stack Used
+Power BI
+
+DAX for Measures and Insights
+
+Data Preparation: Filter context, calculated columns vs. measures, group bins, running totals, and dynamic narratives.
+
+Interactive slicers and tooltips for enhanced UX.
+
+# How to Use
+Filter by Department to drill down on attrition performance.
+
+Hover over visuals to explore tooltips for specific age groups, education levels, or job roles.
+
+Use this dashboard to inform retention strategies, employee engagement plans, and HR interventions.
+
