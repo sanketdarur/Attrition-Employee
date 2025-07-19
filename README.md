@@ -62,5 +62,18 @@ Use this dashboard to inform retention strategies, employee engagement plans, an
 
 ### Dashboard Design & Visual Structuring
 - Created a 3-page dashboard structure to separate high-level metrics, detailed departmental insights, and performance-focused evaluations.
-- 
+- Applied consistent and meaningful color themes aligned with background visuals to enhance readability and visual impact.
+- Integrated slicers for year, department, and gender, ensuring controlled and user-friendly filtering across visuals.
+- Used donut charts, bar charts, line graphs, KPI cards, and matrices to represent different angles of attrition and performance effectively.
+- Structured visuals with space-efficient labeling (e.g., month formatting) and data tooltips for enriched context.
+
+### Analytical Insights & Metrics
+- Calculated attrition rate per department, gender, and age group, enabling granular analysis of workforce turnover patterns.
+- Built custom age group bins using calculated columns and logic-based segmentation to classify employees meaningfully.
+- Created running totals and cumulative trends to visualize the progression of attrition over time.
+- Developed dynamic attrition insights that respond to slicers, including breakdowns of performance and satisfaction scores.
+- Differentiated between segment attrition rates and segment contribution to total attrition, providing clearer storytelling in visuals.
+
+
+![Dashboard Preview](Resources/Emp_Attrition.png)
 
